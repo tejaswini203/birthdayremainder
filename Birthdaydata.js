@@ -1,0 +1,72 @@
+export const data=[
+    {id:1,
+        name:"Tejaswini",
+        age:"25",
+        country:"India",
+        image:"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fmountain-landscape-picture-id517188688%3Fk%3D20%26m%3D517188688%26s%3D612x612%26w%3D0%26h%3Di38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fnature&tbnid=ISsdmwh92GPtrM&vet=12ahUKEwjjy_iT1ar5AhViyKACHTw5AtkQMygGegUIARDlAQ..i&docid=tnVTsEa64LdCyM&w=612&h=384&q=images&ved=2ahUKEwjjy_iT1ar5AhViyKACHTw5AtkQMygGegUIARDlAQ.jpg"
+},
+{
+    id:2,
+    name:"Mahesh",
+    age:"30",
+    country:"India",
+    image:"https://www.istockphoto.com/photos/nature.jpg"
+},
+{
+    id:3,
+    name:"pavan",
+    age:"26",
+    country:"India",
+    image:"https://www.istockphoto.com/photos/nature.jpg"
+},
+{
+    id:4,
+    name:"kanni",
+    age:"26",
+    country:"Chaina",
+    image:"https://www.whatsappimages.in/sad-alone-image/"
+},
+{
+    id:5,
+    name:"sai",
+    age:"20",
+    country:"Japan",
+    image:"https://stocksnap.io/search/nature.jpg"
+},
+{
+    id:6,
+    name:"sasi",
+    age:"30",
+    country:"Germany",
+    image:"https://www.dreamstime.com/photos-images/love.html.jpg"
+},
+{
+    id:7,
+    name:"charan",
+    age:"22",
+    country:"USA",
+    image:"https://unsplash.com/images/things/book.jpg"
+},
+{
+    id:8,
+    name:"ram",
+    age:"33",
+    country:"England",
+    image:"https://www.pexels.com/search/beautiful/"
+},
+{
+    id:9,
+    name:"krishna",
+    age:"35",
+    country:"Srilanka",
+    image:"https://unsplash.com/s/photos/human.jpg"
+},
+{
+    id:10,
+    name:"devi",
+    age:"20",
+    country:"India",
+    image:"https://www.dreamstime.com/photos-images/nature.html.jpg"
+
+},
+]
